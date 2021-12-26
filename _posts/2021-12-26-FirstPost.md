@@ -18,6 +18,6 @@ So here I am! With Jekyll and Github Pages.
 Hopefully my initial motivation right now can keep me on track to posting regularly 🤞.  
 
 To be really honest setting this up was a big hurdle for me as I was **NOT** familiar with Jekyll at all. 😵
-Thank you those who have went through similar processes previously, for me to tread upon the accumulated wisdom. Which brings me to think about what to write in my first technical post should be about!  
+Thank you those who have went through similar processes previously, for me to tread upon the accumulated wisdom. Which brings me to think about what to write in my first technical post!  
 
-Stay tuned.
+Stay tuned!
