@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: A Grokker's Journey             # the main title
+title: Grokker's Journey             # the main title
 
 tagline: Leaving footprints behind for the sake of my own    # it will display as the sub-title
 
@@ -56,7 +56,7 @@ google_site_verification: google-site-verification=ncucf81GaINry-_c5rwiBo7mq4cYA
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'yehyunchoi'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -83,14 +83,14 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: '/assets/img/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'yehyunchoi-github-io'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
