@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/avatar.png'
+avatar: 'assets/img/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -138,7 +138,6 @@ defaults:
       layout: page
       permalink: /:title/
       dynamic_title: true    # Hide title in mobile screens.
-
 sass:
   style: compressed
 
