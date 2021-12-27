@@ -2,7 +2,7 @@
 title: First Post
 date: 2021-12-26 20:30:00 +0900
 categories: [DailyBlog, Test]
-tags: [IT, Tech, Blog, Daily, TIL]     # TAG names should always be lowercase
+tags: [it, tech, blog, daily, til]     # TAG names should always be lowercase
 ---
 
 ### First Post with Jekyll
